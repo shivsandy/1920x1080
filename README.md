@@ -1,2 +1,3 @@
-# 1920x1080
-Gen3, Gen4, Gen5 Fix
+Laptop Screen Resolution Application Script
+
+1920x1080 changes automatically
