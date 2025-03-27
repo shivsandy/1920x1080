@@ -7,7 +7,7 @@ if %errorLevel% neq 0 (
 )
 
 :: Step 1: Delete the shortcut from startup
-set "shortcutPath=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\resolution.lnk"
+set "shortcutPath=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\resolution.lnk"
 if exist "%shortcutPath%" (
     del "%shortcutPath%"
 )
